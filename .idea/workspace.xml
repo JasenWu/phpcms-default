@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ec286f-ff27-4a40-aefa-88397aac4457" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/caches/caches_template/default/content/header_page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/caches/caches_template/default/content/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/caches/caches_template/default/content/page.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_content.cache.php" afterPath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_content.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_content_1.cache.php" afterPath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_content_1.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_items_1.cache.php" afterPath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_items_1.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_items_2.cache.php" afterPath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_items_2.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_items_3.cache.php" afterPath="$PROJECT_DIR$/caches/caches_commons/caches_data/category_items_3.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_commons/caches_data/common.cache.php" afterPath="$PROJECT_DIR$/caches/caches_commons/caches_data/common.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_commons/caches_data/modules.cache.php" afterPath="$PROJECT_DIR$/caches/caches_commons/caches_data/modules.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_commons/caches_data/sitelist.cache.php" afterPath="$PROJECT_DIR$/caches/caches_commons/caches_data/sitelist.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_content/caches_data/update_url_catid-1-1.cache.php" afterPath="$PROJECT_DIR$/caches/caches_content/caches_data/update_url_catid-1-1.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_template/default/content/footer.php" afterPath="$PROJECT_DIR$/caches/caches_template/default/content/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_template/default/content/header.php" afterPath="$PROJECT_DIR$/caches/caches_template/default/content/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/configs/system.php" afterPath="$PROJECT_DIR$/caches/configs/system.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/error_log.php" afterPath="$PROJECT_DIR$/caches/error_log.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_tpl_data/caches_data/76d901aa1d17ffd5e70a9d10047483ce.cache.php" afterPath="$PROJECT_DIR$/caches/caches_tpl_data/caches_data/76d901aa1d17ffd5e70a9d10047483ce.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caches/caches_tpl_data/caches_data/c11c0609e2a132f53224630c097f5e78.cache.php" afterPath="$PROJECT_DIR$/caches/caches_tpl_data/caches_data/c11c0609e2a132f53224630c097f5e78.cache.php" />
     </list>
     <ignored path="taomujiannew.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +29,8 @@
       <file leaf-file-name="system.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/caches/configs/system.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43541363">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.2394775">
+              <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -238,8 +223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/caches/configs/system.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43541363">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2394775">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
           <folding />
         </state>
       </provider>
